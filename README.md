@@ -14,4 +14,4 @@ Welcome to the Battle Arena!
 
 To compile:
 ```bash
-javac -cp champions-framework.jar src/*.java
+javac -cp champions-arena.jar src/*.java
