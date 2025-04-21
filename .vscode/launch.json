@@ -8,7 +8,7 @@
       "mainClass": "ChampionsArena",
       "classPaths": [
         "champions-arena.jar",
-        "bin"
+        "dist"
       ]
     }
   ]
