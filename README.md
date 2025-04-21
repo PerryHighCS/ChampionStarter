@@ -24,7 +24,7 @@ champions-starter/
 ```
 
 ## Building and Running
-###Compile your code:
+### Compile your code:
 Use the keyboard shortcut:
 ```
 Ctrl + Shift + B (or ⇧⌘B on Mac)
