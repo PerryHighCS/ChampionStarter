@@ -12,6 +12,7 @@ Welcome to the Battle Arena!
 ```
 ChampionStarter/
 ├── champions-arena.jar      # Provided by your teacher
+├── docs                     # JavaDocs for the Champions Arena
 ├── src/                     # Your Java source files
 │   └── MyChampion.java
 ├── dist/                    # Compiled .class files (auto-generated)
