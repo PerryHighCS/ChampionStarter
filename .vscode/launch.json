@@ -5,7 +5,9 @@
       "type": "java",
       "name": "Run Champions Arena",
       "request": "launch",
+      "preLaunchTask": "Build Student Classes",
       "mainClass": "Launcher",
+      "args": ["console"],
       "cwd": "${workspaceFolder}/dist",
       "classPaths": [
         "${workspaceFolder}/dist",
