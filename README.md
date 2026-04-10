@@ -38,7 +38,7 @@ F5 or click the ▶ Run button in the top toolbar
 ```
 Your Champion will appear in the selection menu if your compiled .class file is in dist/.
 
-##M aking Your Champion
+## Making Your Champion
 Rename and open src/MyChampion.java and customize:
  - NAME, maxHealth, attackPower, defensePower
  - getActions() to define your special moves
